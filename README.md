@@ -3,11 +3,11 @@
 
 ### How to do above
 
-- [Adding the daily DevCard to your GitHub profile]([https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile#:~:text=The%20easiest%20way%20to%20add,file%20and%20paste%20the%20code.))
+- [Adding the daily DevCard to your GitHub profile](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile#:~:text=The%20easiest%20way%20to%20add,file%20and%20paste%20the%20code.)
 
 ### Hi there 👋
 
-- 🌱 I’m currently binge watching [The Marvelous Mrs. Maisel]([https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)](https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel))
+- 🌱 I’m currently binge watching [The Marvelous Mrs. Maisel](https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel)
 
 <!--
 
