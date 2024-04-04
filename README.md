@@ -1,5 +1,5 @@
 <!--
-<a href="https://app.daily.dev/BrisbaneWebApp"><img src="https://github.com/brisbanewebdeveloper/brisbanewebdeveloper/blob/main/devcard.svg" width="400" alt="Brisbane Web Developer's Dev Card"/></a>
+<a href="https://app.daily.dev/BrisbaneWebApp"><img src="https://github.com/brisbanewebdeveloper/brisbanewebdeveloper/blob/main/devcard.svg" width="400" alt="BWD"/></a>
 -->
 <a href="https://app.daily.dev/brisbanewebapp"><img src="https://api.daily.dev/devcards/v2/SYQLggXe4pc3IGcNuxoiB.png?type=wide&r=wpv" width="652" alt="Brisbane Web Developer's Dev Card"/></a>
 
