@@ -5,7 +5,10 @@
 
 ### How to do above
 
+<!--
 - [Adding the daily DevCard to your GitHub profile](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile#:~:text=The%20easiest%20way%20to%20add,file%20and%20paste%20the%20code.)
+-->
+- [Adding the daily DevCard to your GitHub profile](https://app.daily.dev/devcard)
 
 ### Hi there 👋
 
